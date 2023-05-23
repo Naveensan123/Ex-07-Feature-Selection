@@ -223,3 +223,7 @@ plt.show()
 ![2023-05-16 (13)](https://github.com/Naveensan123/Ex-07-Feature-Selection/assets/95761973/3169be7c-7b26-4d83-9db7-52bef77ef369)
 ![2023-05-16 (14)](https://github.com/Naveensan123/Ex-07-Feature-Selection/assets/95761973/84f97f02-19f8-41c3-9173-2f66248d221d)
 
+# RESULT:
+Thus the Feature Selection for the given datasets had been executed successfully.
+
+
