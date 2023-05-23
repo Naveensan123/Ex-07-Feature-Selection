@@ -1,3 +1,6 @@
+[EX NO_07(Naveensan Y-212220040099).ipynb - Colaboratory.pdf](https://github.com/Naveensan123/Ex-07-Feature-Selection/files/11542721/EX.NO_07.Naveensan.Y-212220040099.ipynb.-.Colaboratory.pdf)
+
+
 # Ex-07-Feature-Selection
 ## AIM
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
@@ -209,6 +212,8 @@ plt.title("Feature importance using Lasso Model")
 
 plt.show()
 # OUTPUT
+https://colab.research.google.com/drive/1nW-An6x632k4P2CHb4Yd3QK_SRJRAPBu?usp=sharing
+
 ![2023-05-16 (2)](https://github.com/Naveensan123/Ex-07-Feature-Selection/assets/95761973/7ad55883-c644-4a39-b007-4bf7ddcbc306)
 ![2023-05-16 (3)](https://github.com/Naveensan123/Ex-07-Feature-Selection/assets/95761973/e0bcbf42-6be9-4943-830a-0742c399e903)
 ![2023-05-16 (4)](https://github.com/Naveensan123/Ex-07-Feature-Selection/assets/95761973/5bbfc1eb-a3a5-4ec1-9db6-c1f4cdbd0487)
